@@ -1,0 +1,26 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fullscreen{
+    width: 100vw;
+    height: 100vh;
+}
+.neumorphism{
+    color:white;
+    border-radius: 50px;
+    background: linear-gradient(145deg, #28273d, #2e2d46);
+    box-shadow:  20px 20px 60px #222134, 
+                -20px -20px 60px #2e2d46;
+}
+.bgblue{
+    background-image: url('1524368.jpg');
+}
+
+.stack{
+    z-index: 100;
+}
+*{
+    color: white;
+}
