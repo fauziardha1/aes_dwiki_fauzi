@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fauziardha1/aes_dwiki_fauzi/static/css/main.981da6e0.chunk.css",
+    "main.js": "/fauziardha1/aes_dwiki_fauzi/static/js/main.5e2b7db0.chunk.js",
+    "main.js.map": "/fauziardha1/aes_dwiki_fauzi/static/js/main.5e2b7db0.chunk.js.map",
+    "runtime-main.js": "/fauziardha1/aes_dwiki_fauzi/static/js/runtime-main.0d8b94fb.js",
+    "runtime-main.js.map": "/fauziardha1/aes_dwiki_fauzi/static/js/runtime-main.0d8b94fb.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/fauziardha1/aes_dwiki_fauzi/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b472561b.chunk.js": "/fauziardha1/aes_dwiki_fauzi/static/js/2.b472561b.chunk.js",
+    "static/js/2.b472561b.chunk.js.map": "/fauziardha1/aes_dwiki_fauzi/static/js/2.b472561b.chunk.js.map",
+    "index.html": "/fauziardha1/aes_dwiki_fauzi/index.html",
+    "precache-manifest.8c74a5def701299a7b60592a3ec99ec3.js": "/fauziardha1/aes_dwiki_fauzi/precache-manifest.8c74a5def701299a7b60592a3ec99ec3.js",
+    "service-worker.js": "/fauziardha1/aes_dwiki_fauzi/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/fauziardha1/aes_dwiki_fauzi/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.981da6e0.chunk.css.map": "/fauziardha1/aes_dwiki_fauzi/static/css/main.981da6e0.chunk.css.map",
+    "static/js/2.b472561b.chunk.js.LICENSE.txt": "/fauziardha1/aes_dwiki_fauzi/static/js/2.b472561b.chunk.js.LICENSE.txt",
+    "static/media/SignIn.css": "/fauziardha1/aes_dwiki_fauzi/static/media/1524368.8161c1ac.jpg",
+    "static/media/Navbar.css": "/fauziardha1/aes_dwiki_fauzi/static/media/Montserrat-Regular.ab459481.woff",
+    "static/media/register.css": "/fauziardha1/aes_dwiki_fauzi/static/media/unnamed.cc12f20d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d8b94fb.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b472561b.chunk.js",
+    "static/css/main.981da6e0.chunk.css",
+    "static/js/main.5e2b7db0.chunk.js"
+  ]
+}
